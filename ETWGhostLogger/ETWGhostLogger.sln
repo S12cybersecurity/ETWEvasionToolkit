@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ETWGhostLogger", "ETWGhostLogger\ETWGhostLogger.vcxproj", "{8C637D04-15DB-40C9-AC2F-B62F68A53093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C637D04-15DB-40C9-AC2F-B62F68A53093}.Debug|x64.ActiveCfg = Debug|x64
+		{8C637D04-15DB-40C9-AC2F-B62F68A53093}.Debug|x64.Build.0 = Debug|x64
+		{8C637D04-15DB-40C9-AC2F-B62F68A53093}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C637D04-15DB-40C9-AC2F-B62F68A53093}.Debug|x86.Build.0 = Debug|Win32
+		{8C637D04-15DB-40C9-AC2F-B62F68A53093}.Release|x64.ActiveCfg = Release|x64
+		{8C637D04-15DB-40C9-AC2F-B62F68A53093}.Release|x64.Build.0 = Release|x64
+		{8C637D04-15DB-40C9-AC2F-B62F68A53093}.Release|x86.ActiveCfg = Release|Win32
+		{8C637D04-15DB-40C9-AC2F-B62F68A53093}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {063C8F8C-1E2C-4715-AC21-CF97A657CCD1}
+	EndGlobalSection
+EndGlobal
