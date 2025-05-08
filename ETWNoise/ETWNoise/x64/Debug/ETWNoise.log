@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\ETWNoise\dllmain.cpp(60,65): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\ETWNoise\dllmain.cpp(60,65): warning C4267:         with
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\ETWNoise\dllmain.cpp(60,65): warning C4267:         [
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\ETWNoise\dllmain.cpp(60,65): warning C4267:             _Ty=int
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\ETWNoise\dllmain.cpp(60,65): warning C4267:         ]
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\ETWNoise\dllmain.cpp(68,72): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\ETWNoise\dllmain.cpp(68,72): warning C4267:         with
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\ETWNoise\dllmain.cpp(68,72): warning C4267:         [
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\ETWNoise\dllmain.cpp(68,72): warning C4267:             _Ty=int
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\ETWNoise\dllmain.cpp(68,72): warning C4267:         ]
+  ETWNoise.vcxproj -> C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWNoise\x64\Debug\ETWNoise.dll
