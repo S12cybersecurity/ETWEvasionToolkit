@@ -32,10 +32,20 @@
               "RelativeDocumentMoniker": "ETWGhostLogger\\dllmain.cpp",
               "ToolTip": "C:\\Users\\s12\\Documents\\GitHub\\MalwareDeveloped\\ETWEvasionToolkit\\ETWGhostLogger\\ETWGhostLogger\\dllmain.cpp",
               "RelativeToolTip": "ETWGhostLogger\\dllmain.cpp",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAowGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-05T19:57:10.72Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1817,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

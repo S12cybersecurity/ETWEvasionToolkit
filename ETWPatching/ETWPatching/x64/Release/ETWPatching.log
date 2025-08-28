@@ -1,0 +1,6 @@
+﻿  ETWPatching.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ETWPatching.vcxproj -> C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWPatching\x64\Release\ETWPatching.exe

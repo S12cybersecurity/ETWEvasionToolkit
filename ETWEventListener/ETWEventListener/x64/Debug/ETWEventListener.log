@@ -1,0 +1,10 @@
+﻿  ETWEventListener.cpp
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWEventListener\ETWEventListener\ETWEventListener.cpp(11,9): warning C4005: 'UNICODE': macro redefinition
+      C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWEventListener\ETWEventListener\ETWEventListener.cpp(11,9):
+      'UNICODE' previously declared on the command line
+  
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWEventListener\ETWEventListener\ETWEventListener.cpp(12,9): warning C4005: '_UNICODE': macro redefinition
+      C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWEventListener\ETWEventListener\ETWEventListener.cpp(12,9):
+      '_UNICODE' previously declared on the command line
+  
+  ETWEventListener.vcxproj -> C:\Users\s12\Documents\GitHub\MalwareDeveloped\ETWEvasionToolkit\ETWEventListener\x64\Debug\ETWEventListener.exe
